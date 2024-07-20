@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\bin\Debug\Timer_Dijital_Saat.exe.config
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\bin\Debug\Timer_Dijital_Saat.exe
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\bin\Debug\Timer_Dijital_Saat.pdb
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.Form1.resources
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.Properties.Resources.resources
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.exe
+D:\SQL\C# Projeler\Timer_Dijital_Saat\Timer_Dijital_Saat\obj\Debug\Timer_Dijital_Saat.pdb
